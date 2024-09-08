@@ -1,6 +1,6 @@
 ## **README.md**
 
-### **Gotham: A Toca dos Vilões (e talvez um herói perdido por aí...)**
+### **Gotham: A Toca dos Vilões (e talvez um herói perdido por aí...) - Imersão Dev com Google Gemini **
 
 **O que é isso?**
 
